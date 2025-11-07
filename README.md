@@ -53,14 +53,24 @@ Demonstrates message transformation using the JSON to XML converter, handling da
 
 📂 Repository Structure
 SAP-BTP-Integration-POC/
-│
+
 ├── Scenario-1_Encoder-Decoder/
+
 ├── Scenario-2_Combine-Enrich-OData/
+
 ├── Scenario-3_CSV-to-XML/
+
 ├── Scenario-4_Filtering/
+
 ├── Scenario-5_Field-Filtering/
+
 ├── Scenario-6_Groovy-Log-Capture/
+
 ├── Scenario-7_DataStore-Fetch/
+
 ├── Scenario-8_iFlow-to-iFlow/
+
 ├── Scenario-9_XPath/
+
 └── Scenario-10_JSON-to-XML/
+
