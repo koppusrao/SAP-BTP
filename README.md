@@ -1,4 +1,4 @@
-# SAP-BTP
+# SAP-BTP Integration Suite
 **Overview**
 
 The POCs in this repository cover various integration patterns and technical use cases — from simple encoding/decoding operations to complex data transformations, filtering, and inter-iFlow communication.
