@@ -3,6 +3,30 @@
 
 The POCs in this repository cover various integration patterns and technical use cases — from simple encoding/decoding operations to complex data transformations, filtering, and inter-iFlow communication.
 
+📂 Repository Structure
+**SAP-BTP-Integration-POC/**
+
+├── Scenario-1_Encoder-Decoder/
+
+├── Scenario-2_Combine-Enrich-OData/
+
+├── Scenario-3_CSV-to-XML/
+
+├── Scenario-4_Filtering/
+
+├── Scenario-5_Field-Filtering/
+
+├── Scenario-6_Groovy-Log-Capture/
+
+├── Scenario-7_DataStore-Fetch/
+
+├── Scenario-8_iFlow-to-iFlow/
+
+├── Scenario-9_XPath/
+
+└── Scenario-10_JSON-to-XML/
+
+
 **Each scenario folder includes:**
 
     📄 Step-by-step documentation
@@ -49,27 +73,4 @@ Scenario 1: Encoder or Decoder**
 **Scenario 10: Converter (JSON to XML)**
 
     Demonstrates message transformation using the JSON to XML converter, handling data structure mapping between the two formats.
-
-📂 Repository Structure
-**SAP-BTP-Integration-POC/**
-
-├── Scenario-1_Encoder-Decoder/
-
-├── Scenario-2_Combine-Enrich-OData/
-
-├── Scenario-3_CSV-to-XML/
-
-├── Scenario-4_Filtering/
-
-├── Scenario-5_Field-Filtering/
-
-├── Scenario-6_Groovy-Log-Capture/
-
-├── Scenario-7_DataStore-Fetch/
-
-├── Scenario-8_iFlow-to-iFlow/
-
-├── Scenario-9_XPath/
-
-└── Scenario-10_JSON-to-XML/
 
