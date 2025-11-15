@@ -26,6 +26,8 @@ The POCs in this repository cover various integration patterns and technical use
 
 └── Scenario-10_JSON-to-XML/
 
+└── Scenario-11 JDBC Integration & DML Operations in SAP BTP Integration Suite/
+
 
 **Each scenario folder includes:**
 
@@ -73,4 +75,10 @@ Scenario 1: Encoder or Decoder**
 **Scenario 10: Converter (JSON to XML)**
 
     Demonstrates message transformation using the JSON to XML converter, handling data structure mapping between the two formats.
+
+**Scenerio 11:  JDBC Connection & DML Operations**
+
+Implemented a JDBC connection to securely establish and manage database access from the Integration Suite for backend data operations.
+
+Performed DML operations (INSERT, UPDATE, DELETE) through JDBC adapters to update and maintain transactional data within the integrated systems.
 
