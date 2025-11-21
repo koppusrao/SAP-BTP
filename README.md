@@ -28,6 +28,8 @@ The POCs in this repository cover various integration patterns and technical use
 
 └── Scenario-11 JDBC Integration & DML Operations in SAP BTP Integration Suite/
 
+└── Scenario-12 SFTP Adaptor configuration and connectivity test in SAP BTP Integration Suite/
+
 
 **Each scenario folder includes:**
 
